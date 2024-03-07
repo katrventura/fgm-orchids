@@ -34,9 +34,9 @@ The goal of this project is to raise awareness about FGM through the use of subt
 
 Throughout the project, I honed my skills in:
 
-Adobe Illustrator
-Datawrapper
-CSS
+- Adobe Illustrator
+- Datawrapper
+- CSS
 
 
 
