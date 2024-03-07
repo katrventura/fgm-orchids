@@ -29,3 +29,14 @@ Attitudes around female genital mutilation vary across countries where it is pra
 ## Project Goal
 
 The goal of this project is to raise awareness about FGM through the use of subtle imagery and simplified graphics. By making the data more accessible and reader-friendly, the project aims to foster understanding and dialogue surrounding this critical issue.
+
+## Skill Development
+
+Throughout the project, I honed my skills in:
+
+Adobe Illustrator
+Datawrapper
+CSS
+
+
+
